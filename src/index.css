@@ -1,0 +1,14 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+td {
+    padding: 7px;
+    background-color: rgba(87, 39, 177, 0.2);
+    text-align: center;
+}
+
+table{
+    font-family: 'Montserrat';
+    font-size: 16px;
+}
